@@ -1,7 +1,7 @@
 # Marianne Carvalho
 
 Olá!
-Me chamo Marianne, atuei durante 10 anos no mercado financeiro como bancária, agora estou me preparando para a transição de carreira para a área de dados como Analista. Apaixona por tecnologia!
+Me chamo Marianne, atuei durante 10 anos no mercado financeiro como bancária, agora estou me preparando para a transição de carreira para a área de dados como Analista. Apaixonada por tecnologia!
 
 ## 😄 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianne-carvalho-31b0b7ba) 
