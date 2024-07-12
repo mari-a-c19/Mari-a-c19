@@ -6,8 +6,8 @@ Me chamo Marianne, atuei durante 10 anos no mercado financeiro como bancária, a
 ## 😄 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianne-carvalho-31b0b7ba) 
 
-## 💡 Habilidades Futuras
+## 💡 Habilidades 
 
 ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![POWER BI](https://img.shields.io/badge/POWERBI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PYTHON](https://img.shields.io/badge/PYTHON-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
